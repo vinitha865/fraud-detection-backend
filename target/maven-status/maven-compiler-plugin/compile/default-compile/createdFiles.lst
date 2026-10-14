@@ -1,0 +1,7 @@
+com\fraud\frauddetection\service\FraudAnalysisService.class
+com\fraud\frauddetection\dto\TransactionRequest.class
+com\fraud\frauddetection\repository\TransactionRepository.class
+com\fraud\frauddetection\controller\FraudController.class
+com\fraud\frauddetection\dto\TransactionResponse.class
+com\fraud\frauddetection\FraudDetectionApplication.class
+com\fraud\frauddetection\model\TransactionRecord.class
